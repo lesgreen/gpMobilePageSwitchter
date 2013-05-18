@@ -1,0 +1,138 @@
+.gp-mobile-switcher-wrapper {
+	
+}
+.gp-mobile-switcher-wrapper a {
+	font-weight:500;
+}
+.gp-mobile-switcher-icon {
+	background:url('../images/gp-mobile-icon.png');
+	border:none;
+	float:left;
+	display:block;
+}
+
+.gp-mobile-switcher-75 {
+	width: 41px;
+	height: 75px;
+}
+
+.gp-mobile-switcher-50 {
+	width: 27.5px;
+	height: 50px;
+}
+
+.gp-mobile-switcher-30 {
+	width: 16.5px;
+	height: 30px;
+}
+
+.gp-mobile-switcher-75.gp-mobile-switcher-black {
+	background-position:0 0;
+}
+
+.gp-mobile-switcher-red {
+	background-position-x: -50px;
+}
+
+.gp-mobile-switcher-blue {
+	background-position-x: -95px;
+}
+
+.gp-mobile-switcher-75.gp-mobile-switcher-white {
+	background-position:-135px 0;
+}
+
+.gp-mobile-switcher-50.gp-mobile-switcher-white {
+	background-position:-135px -80px;
+}
+
+.gp-mobile-switcher-30.gp-mobile-switcher-white {
+	background-position:-135px -135px;
+}
+.gp-mobile-switcher-text-black {
+	color:black;
+}
+.gp-mobile-switcher-text-red {
+	color:red;
+}
+.gp-mobile-switcher-text-blue {
+	color:blue;
+}
+.gp-mobile-switcher-text-white {
+	color:white;
+}
+.gp-mobile-switcher-text-navy {
+	color:navy;
+}
+
+.gp-mobile-switcher-text-orange {
+	color:#ff7f2a;
+}
+.gp-mobile-switcher-text-75 {
+	font-size:18px;
+	margin-left: 7px;
+	line-height: 64px;
+}
+
+.gp-mobile-switcher-text-50 {
+	font-size:16px;
+	margin-left: 7px;
+	line-height: 46px;
+}
+
+.gp-mobile-switcher-text-30 {
+	font-size:11px;
+	margin-left: 5px;
+}
+.gp-mobile-switcher-gray {
+	background-position-x: -185px;
+}
+
+.gp-mobile-switcher-green {
+	background-position-x: -230px;
+}
+
+.gp-mobile-switcher-yellow {
+	background-position-x: -275px;
+}
+
+.gp-mobile-switcher-teal {
+	background-position-x: -320px;
+}
+
+.gp-mobile-switcher-orange-dark {
+	background-position-x: -365px;
+}
+
+.gp-mobile-switcher-pink {
+	background-position-x: -410px;
+}
+
+
+.gp-mobile-switcher-75.gp-mobile-switcher-navy {
+	background-position:-450px 0;
+}
+
+.gp-mobile-switcher-50.gp-mobile-switcher-navy {
+	background-position:-450px -80px;
+}
+
+.gp-mobile-switcher-30.gp-mobile-switcher-navy {
+	background-position:-450px -135px;
+}
+
+.gp-mobile-switcher-lime {
+	background-position-x: -500px;
+}
+
+.gp-mobile-switcher-75.gp-mobile-switcher-orange {
+	background-position:-540px 0;
+}
+
+.gp-mobile-switcher-50.gp-mobile-switcher-orange {
+	background-position:-540px -80px;
+}
+
+.gp-mobile-switcher-30.gp-mobile-switcher-orange {
+	background-position:-540px -135px;
+}
